@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Redux toolkit
+- 🔭 &nbsp; I’m currently learning Redux toolkit & Angular.js framework
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I’m fresh grad from ASU in Egypt
 - 💼 &nbsp; front-end web developer.
@@ -32,6 +32,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+  
   
 
 
