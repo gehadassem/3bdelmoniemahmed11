@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdelmoniem ahmed</h1>
-<h3 align="center">A passionate Full stack web  developer(.Net) from egypt</h3>
+<h3 align="center">A passionate Full stack web developer from egypt</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmoniem-ahmed-271b39165/)
