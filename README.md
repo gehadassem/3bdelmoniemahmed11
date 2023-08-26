@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdelmoniem ahmed</h1>
-<h3 align="center">A passionate Full Stack developer(.Net) from egypt</h3>
+<h3 align="center">A passionate Full stack web  developer(.Net) from egypt</h3>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelmoniem-ahmed-271b39165/)
@@ -11,7 +11,7 @@
 - 🔭 &nbsp; I’m currently learning Docker
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I’m fresh grad from ASU in Egypt
-- 💼 &nbsp; front-end web developer.
+- 💼 &nbsp; Full Stack web developer.
 - ✍️ &nbsp; i love bicycling and running .
 - ☕ &nbsp; I believe in hardworking can beat talent. 
 - How to reach me: __abdelmoniemahmed3499@gmail.com__
