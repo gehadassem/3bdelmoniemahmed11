@@ -35,11 +35,15 @@
   <br/>
     <code><img width="15%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
      <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-
+      <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+       <br/>
   
-  
+   <br/>
+    <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+ 
 
 
 </p>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=3bdelmoniemahmed11&row=1&column=6" alt="ahmed"/>
+<img src="https://github-profile-trophy.vercel.app/?username=3bdelmoniemahmed11&row=1&column=6" alt="abdelmoniem ahmed"/>
